@@ -4,7 +4,15 @@ Welcome to my personal webpage!
 
 ## Published Papers
 
+### to appear
+
+Jonathan Hasenburg, Martin Grambow, David Bermbach. Towards A Replication Service for Data-Intensive Fog Applications. In: Proceedings of the 35th ACM Symposium on Applied Computing, Posters Track (SAC 2020). ACM 2020. [Bib](https://dbermbach.github.io/publications/2020-sac-dads-fbase.bib). [PDF](https://dbermbach.github.io/publications/2020-sac-dads-fbase.pdf).
+
+Jonathan Hasenburg, David Bermbach. Towards Geo-Context Aware IoT Data Distribution. In: Proceedings of the 4th Workshop on IoT Systems Provisioning and Management for Context-Aware Smart Cities (ISYCC 2019). Springer 2019. [Bib](https://dbermbach.github.io/publications/2019-isycc.bib). [PDF](https://dbermbach.github.io/publications/2019-isycc.pdf).
+
 ### 2019
+
+Jonathan Hasenburg, Martin Grambow, David Bermbach. FBase: A Replication Service for Data-Intensive Fog Applications. In: Technical Report MCC.2019.1. TU Berlin & ECDF, Mobile Cloud Computing Research Group. 2018. [Bib](https://dbermbach.github.io/publications/techreport-mcc.2019.1.bib). [PDF](https://dbermbach.github.io/publications/techreport-mcc.2019.1.pdf).
 
 Jonathan Hasenburg, Martin Grambow, Elias Grünewald, Sascha Huk, David Bermbach. MockFog: Emulating Fog Computing Infrastructure in the Cloud. In: Proceedings of the First IEEE International Conference on Fog Computing 2019 (ICFC 2019). IEEE 2019. [Bib](http://www.mcc.tu-berlin.de/fileadmin/fg344/publications/2019-02-11_mockfog.bib). [PDF](http://www.mcc.tu-berlin.de/fileadmin/fg344/publications/2019-02-11_mockfog.pdf).
 
