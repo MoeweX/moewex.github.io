@@ -6,11 +6,13 @@ Welcome to my personal webpage!
 
 ### to appear
 
-Jonathan Hasenburg, David Bermbach. GeoBroker: Leveraging Geo-Contexts for IoT Data Distribution. In: Computer Communications, 151, 473-484. Elsevier 2020.  [Bib](https://www.mcc.tu-berlin.de/fileadmin/fg344/publications/2020-06-01_geobroker.bib). [PDF](https://arxiv.org/pdf/2001.01603.pdf).
-
 Jonathan Hasenburg, Martin Grambow, David Bermbach. Towards a Replication Service for Data-Intensive Fog Applications. In: Proceedings of the 35th ACM Symposium on Applied Computing, Posters Track (SAC 2020). ACM 2020. [Bib](https://dbermbach.github.io/publications/2020-sac-dads-fbase.bib). [PDF](https://dbermbach.github.io/publications/2020-sac-dads-fbase.pdf).
 
 Jonathan Hasenburg, David Bermbach. Towards Geo-Context Aware IoT Data Distribution. In: Proceedings of the 4th Workshop on IoT Systems Provisioning and Management for Context-Aware Smart Cities (ISYCC 2019). Springer 2019. [Bib](https://dbermbach.github.io/publications/2019-isycc.bib). [PDF](https://dbermbach.github.io/publications/2019-isycc.pdf).
+
+### 2020
+
+Jonathan Hasenburg, David Bermbach. GeoBroker: Leveraging Geo-Contexts for IoT Data Distribution. In: Computer Communications, 151, 473-484. Elsevier 2020.  [Bib](https://www.mcc.tu-berlin.de/fileadmin/fg344/publications/2020-06-01_geobroker.bib). [PDF](https://arxiv.org/pdf/2001.01603.pdf).
 
 ### 2019
 
