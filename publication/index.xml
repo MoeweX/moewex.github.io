@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jonathan Hasenburg</title>
+    <link>https://moewex.github.io/publication/</link>
+      <atom:link href="https://moewex.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Hasenburg</copyright><lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://moewex.github.io/images/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_2.png</url>
+      <title>Publications</title>
+      <link>https://moewex.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>GeoBroker: Leveraging Geo-Contexts for IoT Data Distribution</title>
+      <link>https://moewex.github.io/publication/2020-geobroker2/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2020-geobroker2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FBase: A Replication Service for Data-Intensive Fog Applications</title>
+      <link>https://moewex.github.io/publication/2019-fbase1/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2019-fbase1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Geo-Context Aware IoT Data Distribution</title>
+      <link>https://moewex.github.io/publication/2019-geobroker1/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2019-geobroker1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MockFog: Emulating Fog Computing Infrastructure in the Cloud</title>
+      <link>https://moewex.github.io/publication/2019-mockfog/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2019-mockfog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is it Safe to Dockerize my Database Benchmark?</title>
+      <link>https://moewex.github.io/publication/2019-docker2/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2019-docker2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dockerization Impacts in Database Performance Benchmarking</title>
+      <link>https://moewex.github.io/publication/2018-docker1/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2018-docker1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FogExplorer</title>
+      <link>https://moewex.github.io/publication/2018-fogexplorer2/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2018-fogexplorer2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Video Surveillance: Using the Fog to Increase Privacy</title>
+      <link>https://moewex.github.io/publication/2018-sdvs/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2018-sdvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting the Evaluation of Fog-based IoT Applications During the Design Phase</title>
+      <link>https://moewex.github.io/publication/2018-fogexplorer1/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2018-fogexplorer1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

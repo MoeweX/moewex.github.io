@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tobias Pfandzelter | Jonathan Hasenburg</title>
+    <link>https://moewex.github.io/authors/tobias-pfandzelter/</link>
+      <atom:link href="https://moewex.github.io/authors/tobias-pfandzelter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tobias Pfandzelter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Hasenburg</copyright><lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://moewex.github.io/images/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_2.png</url>
+      <title>Tobias Pfandzelter</title>
+      <link>https://moewex.github.io/authors/tobias-pfandzelter/</link>
+    </image>
+    
+    <item>
+      <title>Is it Safe to Dockerize my Database Benchmark?</title>
+      <link>https://moewex.github.io/publication/2019-docker2/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2019-docker2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dockerization Impacts in Database Performance Benchmarking</title>
+      <link>https://moewex.github.io/publication/2018-docker1/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2018-docker1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
