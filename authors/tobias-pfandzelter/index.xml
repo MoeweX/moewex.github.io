@@ -5,12 +5,20 @@
     <link>https://moewex.github.io/authors/tobias-pfandzelter/</link>
       <atom:link href="https://moewex.github.io/authors/tobias-pfandzelter/index.xml" rel="self" type="application/rss+xml" />
     <description>Tobias Pfandzelter</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Hasenburg</copyright><lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Hasenburg</copyright><lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://moewex.github.io/images/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_2.png</url>
       <title>Tobias Pfandzelter</title>
       <link>https://moewex.github.io/authors/tobias-pfandzelter/</link>
     </image>
+    
+    <item>
+      <title>Towards Auction-Based Function Placement in Serverless Fog Platforms</title>
+      <link>https://moewex.github.io/publication/2020-auctions/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2020-auctions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Is it Safe to Dockerize my Database Benchmark?</title>
