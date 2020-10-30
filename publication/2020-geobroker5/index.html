@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="The combination of edge and cloud in the fog computing paradigm enables a new breed of data-intensive applications. These applications, however, have to face a number of fog-specific challenges which developers have to repetitively address for every single application. In this paper, we propose a replication service specifically tailored to the needs of data-intensive fog applications that aims to ease or eliminate challenges caused by the highly distributed and heterogeneous environment fog applications operate in. Furthermore, we present our prototypical proof-of-concept implementation FBase that we have made available as open source.">
+  <meta name="description" content="IoT data are usually exchanged via pub/sub, e.g., based on the MQTT protocol. Especially in the IoT, however, the relevance of data often depends on the geo-context, e.g., the location of data source and sink. In this paper, we propose two inter-broker routing strategies that use this characteristic for the selection of rendezvous points. We evaluate analytically and through experiments with a distributed pub/sub prototype which strategy is best suited in three IoT scenarios. Based on simulation, we compare the performance and efficiency of our approach to the state of the art: Our strategies reduce the event delivery latency by up to 22 times compared to the only alternative that sends slightly fewer messages. Our strategies also require significantly less inter-broker messages than all other approaches while achieving at least the same performance.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://moewex.github.io/publication/2019-fbase1/">
+  <link rel="alternate" hreflang="en-us" href="https://moewex.github.io/publication/2020-geobroker5/">
 
   
 
@@ -215,7 +215,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://moewex.github.io/publication/2019-fbase1/">
+  <link rel="canonical" href="https://moewex.github.io/publication/2020-geobroker5/">
 
   
   
@@ -229,15 +229,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Jonathan Hasenburg">
-  <meta property="og:url" content="https://moewex.github.io/publication/2019-fbase1/">
-  <meta property="og:title" content="FBase: A Replication Service for Data-Intensive Fog Applications | Jonathan Hasenburg">
-  <meta property="og:description" content="The combination of edge and cloud in the fog computing paradigm enables a new breed of data-intensive applications. These applications, however, have to face a number of fog-specific challenges which developers have to repetitively address for every single application. In this paper, we propose a replication service specifically tailored to the needs of data-intensive fog applications that aims to ease or eliminate challenges caused by the highly distributed and heterogeneous environment fog applications operate in. Furthermore, we present our prototypical proof-of-concept implementation FBase that we have made available as open source."><meta property="og:image" content="https://moewex.github.io/images/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_2.png">
+  <meta property="og:url" content="https://moewex.github.io/publication/2020-geobroker5/">
+  <meta property="og:title" content="DisGB: Using Geo-Context Information for Efficient Routing in Geo-Distributed Pub/Sub Systems | Jonathan Hasenburg">
+  <meta property="og:description" content="IoT data are usually exchanged via pub/sub, e.g., based on the MQTT protocol. Especially in the IoT, however, the relevance of data often depends on the geo-context, e.g., the location of data source and sink. In this paper, we propose two inter-broker routing strategies that use this characteristic for the selection of rendezvous points. We evaluate analytically and through experiments with a distributed pub/sub prototype which strategy is best suited in three IoT scenarios. Based on simulation, we compare the performance and efficiency of our approach to the state of the art: Our strategies reduce the event delivery latency by up to 22 times compared to the only alternative that sends slightly fewer messages. Our strategies also require significantly less inter-broker messages than all other approaches while achieving at least the same performance."><meta property="og:image" content="https://moewex.github.io/images/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_2.png">
   <meta property="twitter:image" content="https://moewex.github.io/images/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-12-06T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2020-12-07T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2019-12-06T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-12-07T00:00:00&#43;00:00">
   
 
   
@@ -259,12 +259,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://moewex.github.io/publication/2019-fbase1/"
+    "@id": "https://moewex.github.io/publication/2020-geobroker5/"
   },
-  "headline": "FBase: A Replication Service for Data-Intensive Fog Applications",
+  "headline": "DisGB: Using Geo-Context Information for Efficient Routing in Geo-Distributed Pub/Sub Systems",
   
-  "datePublished": "2019-12-06T00:00:00Z",
-  "dateModified": "2019-12-06T00:00:00Z",
+  "datePublished": "2020-12-07T00:00:00Z",
+  "dateModified": "2020-12-07T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -279,7 +279,7 @@
       "url": "https://moewex.github.io/images/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_192x192_fit_lanczos_2.png"
     }
   },
-  "description": "The combination of edge and cloud in the fog computing paradigm enables a new breed of data-intensive applications. These applications, however, have to face a number of fog-specific challenges which developers have to repetitively address for every single application. In this paper, we propose a replication service specifically tailored to the needs of data-intensive fog applications that aims to ease or eliminate challenges caused by the highly distributed and heterogeneous environment fog applications operate in. Furthermore, we present our prototypical proof-of-concept implementation FBase that we have made available as open source."
+  "description": "IoT data are usually exchanged via pub/sub, e.g., based on the MQTT protocol. Especially in the IoT, however, the relevance of data often depends on the geo-context, e.g., the location of data source and sink. In this paper, we propose two inter-broker routing strategies that use this characteristic for the selection of rendezvous points. We evaluate analytically and through experiments with a distributed pub/sub prototype which strategy is best suited in three IoT scenarios. Based on simulation, we compare the performance and efficiency of our approach to the state of the art: Our strategies reduce the event delivery latency by up to 22 times compared to the only alternative that sends slightly fewer messages. Our strategies also require significantly less inter-broker messages than all other approaches while achieving at least the same performance."
 }
 </script>
 
@@ -297,7 +297,7 @@
 
 
 
-  <title>FBase: A Replication Service for Data-Intensive Fog Applications | Jonathan Hasenburg</title>
+  <title>DisGB: Using Geo-Context Information for Efficient Routing in Geo-Distributed Pub/Sub Systems | Jonathan Hasenburg</title>
 
 </head>
 
@@ -506,7 +506,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>FBase: A Replication Service for Data-Intensive Fog Applications</h1>
+  <h1>DisGB: Using Geo-Context Information for Efficient Routing in Geo-Distributed Pub/Sub Systems</h1>
 
   
 
@@ -524,7 +524,7 @@
     
 
   
-  <span><a href="/authors/admin/">Jonathan Hasenburg</a></span>, <span><a href="/authors/martin-grambow/">Martin Grambow</a></span>, <span><a href="/authors/david-bermbach/">David Bermbach</a></span>
+  <span><a href="/authors/admin/">Jonathan Hasenburg</a></span>, <span><a href="/authors/david-bermbach/">David Bermbach</a></span>
   </div>
   
   
@@ -535,7 +535,7 @@
     
       
     
-    December 2019
+    December 2020
   </span>
   
 
@@ -585,14 +585,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/2019-fbase1/2019-fbase1.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/2020-geobroker5/2020-geobroker5.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2019-fbase1/cite.bib">
+        data-filename="/publication/2020-geobroker5/cite.bib">
   Cite
 </button>
 
@@ -601,7 +601,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/OpenFogStack/FBase" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/MoeweX/geobroker" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -630,7 +630,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">The combination of edge and cloud in the fog computing paradigm enables a new breed of data-intensive applications. These applications, however, have to face a number of fog-specific challenges which developers have to repetitively address for every single application. In this paper, we propose a replication service specifically tailored to the needs of data-intensive fog applications that aims to ease or eliminate challenges caused by the highly distributed and heterogeneous environment fog applications operate in. Furthermore, we present our prototypical proof-of-concept implementation FBase that we have made available as open source.</p>
+    <p class="pub-abstract">IoT data are usually exchanged via pub/sub, e.g., based on the MQTT protocol. Especially in the IoT, however, the relevance of data often depends on the geo-context, e.g., the location of data source and sink. In this paper, we propose two inter-broker routing strategies that use this characteristic for the selection of rendezvous points. We evaluate analytically and through experiments with a distributed pub/sub prototype which strategy is best suited in three IoT scenarios. Based on simulation, we compare the performance and efficiency of our approach to the state of the art: Our strategies reduce the event delivery latency by up to 22 times compared to the only alternative that sends slightly fewer messages. Our strategies also require significantly less inter-broker messages than all other approaches while achieving at least the same performance.</p>
     
 
     
@@ -642,8 +642,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#4">
-              Report
+            <a href="/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -660,7 +660,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Technical Report MCC.2019.1</em></div>
+          <div class="col-12 col-md-9"><em>2020 IEEE/ACM International Conference on Utility and Cloud Computing</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -689,7 +689,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://moewex.github.io/publication/2019-fbase1/&amp;text=FBase:%20A%20Replication%20Service%20for%20Data-Intensive%20Fog%20Applications" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://moewex.github.io/publication/2020-geobroker5/&amp;text=DisGB:%20Using%20Geo-Context%20Information%20for%20Efficient%20Routing%20in%20Geo-Distributed%20Pub/Sub%20Systems" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -702,7 +702,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://moewex.github.io/publication/2019-fbase1/&amp;t=FBase:%20A%20Replication%20Service%20for%20Data-Intensive%20Fog%20Applications" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://moewex.github.io/publication/2020-geobroker5/&amp;t=DisGB:%20Using%20Geo-Context%20Information%20for%20Efficient%20Routing%20in%20Geo-Distributed%20Pub/Sub%20Systems" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -715,7 +715,7 @@
       
       
       <li>
-        <a href="mailto:?subject=FBase:%20A%20Replication%20Service%20for%20Data-Intensive%20Fog%20Applications&amp;body=https://moewex.github.io/publication/2019-fbase1/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=DisGB:%20Using%20Geo-Context%20Information%20for%20Efficient%20Routing%20in%20Geo-Distributed%20Pub/Sub%20Systems&amp;body=https://moewex.github.io/publication/2020-geobroker5/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -728,7 +728,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://moewex.github.io/publication/2019-fbase1/&amp;title=FBase:%20A%20Replication%20Service%20for%20Data-Intensive%20Fog%20Applications" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://moewex.github.io/publication/2020-geobroker5/&amp;title=DisGB:%20Using%20Geo-Context%20Information%20for%20Efficient%20Routing%20in%20Geo-Distributed%20Pub/Sub%20Systems" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -741,7 +741,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=FBase:%20A%20Replication%20Service%20for%20Data-Intensive%20Fog%20Applications%20https://moewex.github.io/publication/2019-fbase1/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=DisGB:%20Using%20Geo-Context%20Information%20for%20Efficient%20Routing%20in%20Geo-Distributed%20Pub/Sub%20Systems%20https://moewex.github.io/publication/2020-geobroker5/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -754,7 +754,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://moewex.github.io/publication/2019-fbase1/&amp;title=FBase:%20A%20Replication%20Service%20for%20Data-Intensive%20Fog%20Applications" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://moewex.github.io/publication/2020-geobroker5/&amp;title=DisGB:%20Using%20Geo-Context%20Information%20for%20Efficient%20Routing%20in%20Geo-Distributed%20Pub/Sub%20Systems" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -880,34 +880,6 @@
         <i class="fab fa-linkedin"></i>
       </a>
     </li>
-  
-</ul>
-
-    </div>
-  </div>
-
-
-  
-    
-    
-
-
-
-
-
-  
-  
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-
-    <div class="media-body">
-      <h5 class="card-title"><a href="/authors/martin-grambow/"></a></h5>
-      
-      
-      <ul class="network-icon" aria-hidden="true">
   
 </ul>
 
