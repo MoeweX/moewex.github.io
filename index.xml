@@ -5,12 +5,20 @@
     <link>https://moewex.github.io/</link>
       <atom:link href="https://moewex.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Hasenburg</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Jonathan Hasenburg</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Jonathan Hasenburg</copyright><lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://moewex.github.io/media/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_2.png</url>
       <title>Jonathan Hasenburg</title>
       <link>https://moewex.github.io/</link>
     </image>
+    
+    <item>
+      <title>Data Distribution for Fog-Based IoT Applications</title>
+      <link>https://moewex.github.io/publication/2021-diss/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/publication/2021-diss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Zero to Fog: Efficient Engineering of Fog‐based Internet of Things Applications</title>
