@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Jonathan Hasenburg</title>
+    <link>https://moewex.github.io/academic/publication-type/1/</link>
+      <atom:link href="https://moewex.github.io/academic/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Jonathan Hasenburg</copyright><lastBuildDate>Mon, 26 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://moewex.github.io/academic/media/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_2.png</url>
+      <title>1</title>
+      <link>https://moewex.github.io/academic/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Towards a Computing Platform for the LEO Edge</title>
+      <link>https://moewex.github.io/academic/publication/2021-leo/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2021-leo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DisGB: Using Geo-Context Information for Efficient Routing in Geo-Distributed Pub/Sub Systems</title>
+      <link>https://moewex.github.io/academic/publication/2020-geobroker5/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2020-geobroker5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing Latency and Excess Data Dissemination in Fog-Based Publish/Subscribe Systems</title>
+      <link>https://moewex.github.io/academic/publication/2020-broadcastgroups/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2020-broadcastgroups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Auction-Based Function Placement in Serverless Fog Platforms</title>
+      <link>https://moewex.github.io/academic/publication/2020-auctions/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2020-auctions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Replication Service for Data-Intensive Fog Applications</title>
+      <link>https://moewex.github.io/academic/publication/2020-fbase2/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2020-fbase2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Geo-Context Aware IoT Data Distribution</title>
+      <link>https://moewex.github.io/academic/publication/2019-geobroker1/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2019-geobroker1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MockFog: Emulating Fog Computing Infrastructure in the Cloud</title>
+      <link>https://moewex.github.io/academic/publication/2019-mockfog/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2019-mockfog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is it Safe to Dockerize my Database Benchmark?</title>
+      <link>https://moewex.github.io/academic/publication/2019-docker2/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2019-docker2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FogExplorer</title>
+      <link>https://moewex.github.io/academic/publication/2018-fogexplorer2/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2018-fogexplorer2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Video Surveillance: Using the Fog to Increase Privacy</title>
+      <link>https://moewex.github.io/academic/publication/2018-sdvs/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2018-sdvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting the Evaluation of Fog-based IoT Applications During the Design Phase</title>
+      <link>https://moewex.github.io/academic/publication/2018-fogexplorer1/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2018-fogexplorer1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

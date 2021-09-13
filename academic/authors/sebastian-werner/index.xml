@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Werner | Jonathan Hasenburg</title>
+    <link>https://moewex.github.io/academic/authors/sebastian-werner/</link>
+      <atom:link href="https://moewex.github.io/academic/authors/sebastian-werner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastian Werner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Jonathan Hasenburg</copyright><lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://moewex.github.io/academic/media/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_2.png</url>
+      <title>Sebastian Werner</title>
+      <link>https://moewex.github.io/academic/authors/sebastian-werner/</link>
+    </image>
+    
+    <item>
+      <title>FogExplorer</title>
+      <link>https://moewex.github.io/academic/publication/2018-fogexplorer2/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2018-fogexplorer2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting the Evaluation of Fog-based IoT Applications During the Design Phase</title>
+      <link>https://moewex.github.io/academic/publication/2018-fogexplorer1/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2018-fogexplorer1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

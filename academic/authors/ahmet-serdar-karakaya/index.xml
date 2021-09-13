@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmet-Serdar Karakaya | Jonathan Hasenburg</title>
+    <link>https://moewex.github.io/academic/authors/ahmet-serdar-karakaya/</link>
+      <atom:link href="https://moewex.github.io/academic/authors/ahmet-serdar-karakaya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmet-Serdar Karakaya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Jonathan Hasenburg</copyright><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://moewex.github.io/academic/media/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_2.png</url>
+      <title>Ahmet-Serdar Karakaya</title>
+      <link>https://moewex.github.io/academic/authors/ahmet-serdar-karakaya/</link>
+    </image>
+    
+    <item>
+      <title>SimRa: Using Crowdsourcing to Identify Near Miss Hotspots in Bicycle Traffic</title>
+      <link>https://moewex.github.io/academic/publication/2020-simra/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2020-simra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
