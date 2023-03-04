@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Bader | Jonathan Hasenburg</title>
+    <link>https://moewex.github.io/academic/authors/jonathan-bader/</link>
+      <atom:link href="https://moewex.github.io/academic/authors/jonathan-bader/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan Bader</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Jonathan Hasenburg</copyright><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://moewex.github.io/academic/media/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_3.png</url>
+      <title>Jonathan Bader</title>
+      <link>https://moewex.github.io/academic/authors/jonathan-bader/</link>
+    </image>
+    
+    <item>
+      <title>AuctionWhisk: Using an Auction-Inspired Approach for Function Placement in Serverless Fog Platforms</title>
+      <link>https://moewex.github.io/academic/publication/2021-auction/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2021-auction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

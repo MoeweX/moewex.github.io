@@ -5,12 +5,20 @@
     <link>https://moewex.github.io/academic/authors/david-bermbach/</link>
       <atom:link href="https://moewex.github.io/academic/authors/david-bermbach/index.xml" rel="self" type="application/rss+xml" />
     <description>David Bermbach</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Jonathan Hasenburg</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Jonathan Hasenburg</copyright><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://moewex.github.io/academic/media/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_2.png</url>
+      <url>https://moewex.github.io/academic/media/logo_hue9f3bdfcfcd10965c171d5c4aec3b3e4_334894_300x300_fit_lanczos_3.png</url>
       <title>David Bermbach</title>
       <link>https://moewex.github.io/academic/authors/david-bermbach/</link>
     </image>
+    
+    <item>
+      <title>AuctionWhisk: Using an Auction-Inspired Approach for Function Placement in Serverless Fog Platforms</title>
+      <link>https://moewex.github.io/academic/publication/2021-auction/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2021-auction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Zero to Fog: Efficient Engineering of Fog‐based Internet of Things Applications</title>

@@ -5,12 +5,20 @@
     <link>https://moewex.github.io/academic/authors/admin/</link>
       <atom:link href="https://moewex.github.io/academic/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Jonathan Hasenburg</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Jonathan Hasenburg</copyright><lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Jonathan Hasenburg</copyright><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://moewex.github.io/academic/authors/admin/avatar_hu4103d4bcc2fa4cbdb89af98c25af3ad4_2246407_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://moewex.github.io/academic/authors/admin/avatar_hu27d26a88453bc0718cfccc978f13a991_114710_270x270_fill_q75_lanczos_center.JPG</url>
       <title>Dr. Jonathan Hasenburg</title>
       <link>https://moewex.github.io/academic/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>AuctionWhisk: Using an Auction-Inspired Approach for Function Placement in Serverless Fog Platforms</title>
+      <link>https://moewex.github.io/academic/publication/2021-auction/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://moewex.github.io/academic/publication/2021-auction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Distribution for Fog-Based IoT Applications</title>
